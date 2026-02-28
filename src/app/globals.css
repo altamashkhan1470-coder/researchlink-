@@ -1,0 +1,8 @@
+@import "tailwindcss";
+
+body {
+  background: #FFF7F5;
+  font-family: system-ui, sans-serif;
+}
+
+::-webkit-scrollbar { display: none; }
